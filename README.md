@@ -27,6 +27,10 @@ Building real-world apps | Passionate about automation and learning.
 - 📧 [geovannylucena@gmail.com](mailto:geovannylucena@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/geovanny-lucena-095527109/)
 
+## 🎓 Certificaciones
+
+- [Problem Solving (Intermediate) - HackerRank](https://www.hackerrank.com/certificates/iframe/6f003bed929b)
+
 ---
 
 > *"Programming isn't just code. It's problem-solving."*
