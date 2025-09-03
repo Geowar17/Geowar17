@@ -29,7 +29,9 @@ Building real-world apps | Passionate about automation and learning.
 
 ## 🎓 Certificaciones
 
-- [Problem Solving (Intermediate) - HackerRank](https://www.hackerrank.com/certificates/iframe/6f003bed929b)
+- Rest API(Intermediate) - HackerRank](https://www.hackerrank.com/certificates/iframe/6f003bed929b)
+- Python - HackerRank](https://www.hackerrank.com/certificates/iframe/a48557ac5654)
+- JavaScrip - HackerRank](https://www.hackerrank.com/certificates/iframe/589c1390ce99) 
 
 ---
 
